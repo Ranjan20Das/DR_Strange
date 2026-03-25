@@ -4,6 +4,10 @@ A real-time computer vision project that detects hand gestures and creates a **D
 
 ---
 
+##Live demo
+
+ if you want to see the demo download the raw video file provided in the repo, to see the output
+
 ## 🚀 Features
 
 * ✋ Real-time hand tracking
